@@ -335,4 +335,3 @@ They can be very effective when refined properly. AI works best as a creative as
 ### Do hooks matter for YouTube Shorts too?
 
 Yes. Retention-based hooks are essential for TikTok, Instagram Reels, and YouTube Shorts.
-```
