@@ -3,7 +3,7 @@ title: "How To Write TikTok Hooks That Increase Viewer Retention"
 description: "Learn how successful creators write TikTok hooks that stop scrolling, improve watch time, and increase engagement in 2026."
 date: "2026-05-28"
 updated: "2026-05-28"
-category: "Hooks"
+category: "Content Strategy"
 tags:
   - tiktok hooks
   - viewer retention
