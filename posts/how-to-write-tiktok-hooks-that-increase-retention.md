@@ -15,8 +15,6 @@ featuredImage: "https://pub-your-r2-id.r2.dev/tiktok-hooks-guide.webp"
 canonical: "https://blog.gnorixx.com/how-to-write-tiktok-hooks-that-increase-viewer-retention"
 ---
 
-# How To Write TikTok Hooks That Increase Viewer Retention
-
 Most short-form videos fail before the 5-second mark.
 
 Not because the editing is bad.
