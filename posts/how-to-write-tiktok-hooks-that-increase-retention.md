@@ -13,6 +13,8 @@ tags:
 author: "Gnorixx Team"
 featuredImage: "https://pub-your-r2-id.r2.dev/tiktok-hooks-guide.webp"
 canonical: "https://blog.gnorixx.com/how-to-write-tiktok-hooks-that-increase-viewer-retention"
+ctaTitle: "Need a complete TikTok script?"
+ctaDesc: "Paste your video topic into the GnorixX Engine to output a complete, high-retention short-form script with 3 distinct hook options instantly."
 ---
 
 Most short-form videos fail before the 5-second mark.
