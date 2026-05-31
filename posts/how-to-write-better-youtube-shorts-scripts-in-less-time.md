@@ -1,5 +1,4 @@
 ---
-
 title: "How To Write Better YouTube Shorts Scripts In Less Time"
 description: "Learn a proven framework for writing YouTube Shorts scripts faster while improving retention, watch time, and engagement."
 date: "2026-06-01"
@@ -14,7 +13,6 @@ tags:
 author: "Gnorixx Team"
 featuredImage: "https://pub-your-r2-id.r2.dev/youtube-shorts-script-guide.webp"
 canonical: "https://blog.gnorixx.com/how-to-write-better-youtube-shorts-scripts"
-
 ---
 
 Creating a YouTube Short looks simple. Most videos are under 60 seconds. Many creators film them on a phone. Some videos go viral with almost no editing. Because of this, many people assume success comes from luck.
