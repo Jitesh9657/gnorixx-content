@@ -1,8 +1,8 @@
 ---
 title: "How To Write Better YouTube Shorts Scripts In Less Time"
 description: "Learn a proven framework for writing YouTube Shorts scripts faster while improving retention, watch time, and engagement."
-date: "2026-06-01"
-updated: "2026-06-01"
+date: "2026-05-31"
+updated: "2026-05-31"
 category: "Content Strategy"
 tags:
 - youtube shorts
