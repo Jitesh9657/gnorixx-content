@@ -14,8 +14,6 @@ tags:
 author: "Gnorixx Team"
 featuredImage: "https://pub-your-r2-id.r2.dev/youtube-shorts-script-guide.webp"
 canonical: "https://blog.gnorixx.com/how-to-write-better-youtube-shorts-scripts"
-ctaTitle: "Need help writing scripts faster?"
-ctaDesc: "Generate complete short-form scripts, hooks, and content ideas in seconds with Gnorixx."
 
 ---
 
