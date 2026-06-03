@@ -17,7 +17,6 @@ canonical: "https://blog.gnorixx.com/youtube-keyword-research-for-small-creators
 
 ---
 
-# YouTube Keyword Research For Small Creators: A Complete Beginner's Guide
 
 One of the biggest frustrations for new YouTube creators is publishing videos that nobody discovers.
 
